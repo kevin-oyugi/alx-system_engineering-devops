@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.html
+ls -n bin/ls /__ls__

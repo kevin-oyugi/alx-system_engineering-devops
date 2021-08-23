@@ -1,2 +1,2 @@
 #!/bin/bash
-find .-name "*.js" | xrags rm
+find -name "*.js" -type f -delete
